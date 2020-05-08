@@ -15,4 +15,4 @@ Developers of all levels.
 Will be happy to merge contributions of new countries, corrections and use cases.
 
 # Special thanks
-@bahiirwa
+[Laurence Bahiirwa](https://github.com/bahiirwa)
