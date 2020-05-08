@@ -15,5 +15,5 @@ Developers of all levels.
 Will be happy to merge contributions of new countries, corrections and use cases.
 
 ## Special thanks
-[Laurence Bahiirwa](https://github.com/bahiirwa)
-[Jonathan Rukundo](https://github.com/jrukundo256)
+- [Laurence Bahiirwa](https://github.com/bahiirwa)
+- [Jonathan Rukundo](https://github.com/jrukundo256)
