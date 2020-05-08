@@ -11,7 +11,7 @@ $countries = new Array(
   'Australia',
   'Austria',
   'Azerbaijan',
-  'The Bahamas,
+  'The Bahamas',
   'Bahrain',
   'Bangladesh',
   'Barbados',
