@@ -1,5 +1,5 @@
 <?php
-$countries = new Array(
+$countries = Array(
   'Afghanistan',
   'Albania',
   'Algeria',
