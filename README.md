@@ -10,3 +10,9 @@ Developers of all levels.
 # How to use.
 1. Clone or download the repo.
 2. Countries are located in respective files depending on your language.
+
+# Contributions
+Will be happy to merge contributions of new countries, corrections and use cases.
+
+# Special thanks
+@bahiirwa
